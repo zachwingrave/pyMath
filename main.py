@@ -8,8 +8,8 @@ def power(n, m):
 
 def percentage_difference_a(n, m):
   """ Return percentage difference of 'n' over 'm' """
-  return ((a-b)/b)*100
+  return ((n-m)/m)*100
 
 def percentage_difference_b(n, m):
   """ Return percentage difference of 'n' over 'm' """
-  return ((a/b)*100)-100
+  return ((n/m)*100)-100
