@@ -1,6 +1,6 @@
 [![Run on Repl.it](https://repl.it/badge/github/zachwingrave/pyMath)](https://repl.it/github/zachwingrave/pyMath)
 
-# PyMath
+# pyMath
 
 A series of Python functions that perform simple calculations using standard and recursive techniques.
 
