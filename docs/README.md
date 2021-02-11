@@ -2,7 +2,7 @@
 
 # pyMath
 
-A series of Python functions that perform simple calculations using standard and recursive techniques.
+Simple operations using standard and recursive techniques.
 
 ### Attributions
 
